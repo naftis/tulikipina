@@ -19,6 +19,7 @@
     "leaflet": "^0.7.5",
     "lodash": "^3.10.1",
     "marked": "~0.3.2",
+    "optipng-bin": "3.0.0",
     "timeago": "^0.2.0"
   },
   "devDependencies": {
